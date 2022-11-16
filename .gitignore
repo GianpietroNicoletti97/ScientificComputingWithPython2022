@@ -1,2 +1,3 @@
 #Jupyter Notebook cache folders
 /.ipynb_checkpoints
+/data/*
