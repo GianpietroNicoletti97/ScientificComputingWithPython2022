@@ -1,3 +1,9 @@
 #Jupyter Notebook cache folders
 /.ipynb_checkpoints
 /data/*
+*.jpg
+*.jpeg
+*.png
+*.json
+*.pkl
+*.pdf
