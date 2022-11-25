@@ -1,5 +1,7 @@
 #Jupyter Notebook cache folders
+
 /.ipynb_checkpoints
+<<<<<<< HEAD
 /data/*
 *.jpg
 *.jpeg
@@ -7,3 +9,13 @@
 *.json
 *.pkl
 *.pdf
+=======
+/Homeworks/lab*/.ipynb_checkpoints
+/.ipynb_checkpoints
+
+#Media files
+*.jpg
+*.jpeg
+*.png
+
+>>>>>>> upstream/gianpietro_nicoletti
