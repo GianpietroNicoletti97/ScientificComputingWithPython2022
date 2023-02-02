@@ -8,5 +8,5 @@
 *.json
 *.pkl
 *.pdf
-
+/CaliforniaHousing/*
 
